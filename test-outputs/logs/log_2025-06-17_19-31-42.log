@@ -1,0 +1,23 @@
+[DEBUG] - [2025-06-17 19:31:42] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\ahmed\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.Listeners.TestNGListeners] - Test Execution Started .......
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\4a270d2b-6240-4f0e-8382-f8b07969f2d7-container.json
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\7c710ff2-66e0-4599-a487-5d0e3b853dc1-attachment
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\819b4185-273e-4f3c-99df-7ba0587f6126-container.json
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\93dc2e70-0a29-4589-be58-f00bbac27246-result.json
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\9dc15b73-cd02-4036-801e-8aefcaf7b4b9-container.json
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\bbb1e1e6-3502-4b14-91b6-a6362842ddfd-attachment.txt
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\screenshots\Passed-Login with valid credentials.png
+[INFO] - [2025-06-17 19:31:43] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\ahmed\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+[WARN] - [2025-06-17 19:31:43] [main] [org.testng.internal.Utils] - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[INFO] - [2025-06-17 19:31:43] [main] [com.swaglabs.Listeners.TestNGListeners] - Test Execution Finished .......
+[ERROR] - [2025-06-17 19:31:43] [main] [io.qameta.allure.AllureLifecycle] - Could not start step: no test case running
+[ERROR] - [2025-06-17 19:31:43] [main] [com.swaglabs.drivers.DriverManager] - WebDriver instance is not set for the current thread.
+[ERROR] - [2025-06-17 19:31:43] [main] [io.qameta.allure.AllureLifecycle] - Could not update step: no step running
+[ERROR] - [2025-06-17 19:31:43] [main] [io.qameta.allure.AllureLifecycle] - Could not stop step: no step running

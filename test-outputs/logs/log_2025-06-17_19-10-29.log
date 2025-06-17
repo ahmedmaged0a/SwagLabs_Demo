@@ -1,0 +1,56 @@
+[DEBUG] - [2025-06-17 19:10:29] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\ahmed\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.Listeners.TestNGListeners] - Test Execution Started .......
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\51663495-e2e9-4d9a-bb32-035eac8cde2c-container.json
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\86484d7b-07a7-422d-af52-cf7871926ab4-attachment
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\88f2417e-ddd0-4a1e-93a5-74d796df9744-attachment.txt
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\a617239c-9559-4ad5-b096-b945f7bbecf4-container.json
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\b1f7fd95-2b5d-459d-bb34-f6598411290a-container.json
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\d0bc87ab-0be3-4b6d-ab9b-1ef3312eaaee-result.json
+[INFO] - [2025-06-17 19:10:30] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\screenshots\Passed-Login with valid credentials.png
+[INFO] - [2025-06-17 19:10:30] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\ahmed\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+[INFO] - [2025-06-17 19:10:32] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-17 19:10:32] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-17 19:10:32] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-17 19:10:32] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-17 19:10:32] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-17 19:10:35] [main] [com.swaglabs.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-17 19:10:36] [main] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #user-name
+[INFO] - [2025-06-17 19:10:36] [main] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #user-name
+[INFO] - [2025-06-17 19:10:36] [main] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #user-name
+[INFO] - [2025-06-17 19:10:36] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-17 19:10:36] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-17 19:10:36] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-17 19:10:36] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-17 19:10:36] [main] [com.swaglabs.utils.ElementActions] - Sending data to element: By.cssSelector: #user-name with data: standard_user
+[INFO] - [2025-06-17 19:10:36] [main] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #password
+[INFO] - [2025-06-17 19:10:36] [main] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #password
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #password
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.ElementActions] - Sending data to element: By.cssSelector: #password with data: secret_sauce
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.Waits] - Waiting for element to be clickable: By.cssSelector: #login-button
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #login-button
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #login-button
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #login-button
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #login-button
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #login-button
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: .app_logo
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: .app_logo
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: .app_logo
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: .app_logo
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: .app_logo
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.ElementActions] - Getting text from element: By.cssSelector: .app_logo  with data: Swag Labs
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: .app_logo
+[INFO] - [2025-06-17 19:10:37] [main] [com.swaglabs.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-17 19:10:38] [main] [com.swaglabs.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\logs\log_2025-06-17_19-10-29.log
+[ERROR] - [2025-06-17 19:10:38] [main] [com.swaglabs.drivers.DriverManager] - WebDriver instance is not set for the current thread.
+[INFO] - [2025-06-17 19:10:39] [main] [com.swaglabs.Listeners.TestNGListeners] - Test Execution Finished .......

@@ -1,0 +1,20 @@
+[DEBUG] - [2025-06-17 19:27:20] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\ahmed\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+[INFO] - [2025-06-17 19:27:20] [main] [com.swaglabs.Listeners.TestNGListeners] - Test Execution Started .......
+[INFO] - [2025-06-17 19:27:21] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-17 19:27:21] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-17 19:27:21] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-17 19:27:21] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-17 19:27:21] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-17 19:27:21] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\21b79f35-adb4-4619-978c-551f5820c0df-container.json
+[INFO] - [2025-06-17 19:27:21] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\3f13b66b-33ed-4c9a-92dc-5267feea9645-container.json
+[INFO] - [2025-06-17 19:27:21] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\43fa017e-3286-44f5-b18f-a581e917d62e-container.json
+[INFO] - [2025-06-17 19:27:21] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\948de6ba-ea05-43c8-b690-9176b7d7ae92-attachment.txt
+[INFO] - [2025-06-17 19:27:21] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\9b259509-106d-4882-a577-974f9f033481-result.json
+[INFO] - [2025-06-17 19:27:21] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\ahmed\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+[ERROR] - [2025-06-17 19:27:22] [main] [com.swaglabs.drivers.DriverManager] - WebDriver instance is not set for the current thread.
+[INFO] - [2025-06-17 19:27:22] [main] [com.swaglabs.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\logs\log_2025-06-17_19-27-19.log
+[ERROR] - [2025-06-17 19:27:22] [main] [com.swaglabs.drivers.DriverManager] - WebDriver instance is not set for the current thread.
+[ERROR] - [2025-06-17 19:27:22] [main] [com.swaglabs.drivers.DriverManager] - WebDriver instance is not set for the current thread.
+[INFO] - [2025-06-17 19:27:22] [main] [com.swaglabs.Listeners.TestNGListeners] - Test Execution Finished .......
