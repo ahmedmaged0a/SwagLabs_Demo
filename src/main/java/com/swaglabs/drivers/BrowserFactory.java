@@ -11,6 +11,9 @@ import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.Map;
 import java.util.Objects;
 
@@ -19,7 +22,7 @@ public class BrowserFactory {
 
         //returns a WebDriver instance based on the browser name provided
     @Step("Get WebDriver instance for browser: {browserName}")
-    public static WebDriver getBrowserDriver(String browserName) {
+    public static WebDriver getBrowserDriver(String browserName) throws IOException {
         if (Objects.isNull(browserName) || browserName.isEmpty()) {
             throw new IllegalArgumentException("Browser name cannot be null or empty");
         }
@@ -39,7 +42,7 @@ public class BrowserFactory {
         };
     }
 
-    private static EdgeOptions getEdgeOptions() {
+    private static EdgeOptions getEdgeOptions() throws IOException {
         EdgeOptions edgeOptions = new EdgeOptions();
         edgeOptions.addArguments("start-maximized"); // Start the browser maximized
         edgeOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
@@ -57,6 +60,8 @@ public class BrowserFactory {
         {
             edgeOptions.addArguments("--headless");
         }
+        Path tempProfile = Files.createTempDirectory("edge_profile_" + Thread.currentThread().getId());
+        edgeOptions.addArguments("--user-data-dir=" + tempProfile.toAbsolutePath().toString());
         return edgeOptions;
     }
 
