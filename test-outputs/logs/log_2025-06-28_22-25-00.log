@@ -1,0 +1,23 @@
+[DEBUG] - [2025-06-28 22:25:00] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\ahmed\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.Listeners.TestNGListeners] - Test Execution Started .......
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\02750183-0946-46f8-b990-8a45c8ceeba1-attachment.txt
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\2ea6bd3c-d4aa-4f71-925e-fd66b69aab4e-result.json
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\2f482016-806e-4e2d-bdcc-9ae993939011-container.json
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\4bab65c3-a243-421e-873e-9af0f49be9c2-attachment.txt
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\4dc4553b-a284-4782-9cd0-a78ae1cf5ee3-result.json
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\55672eaa-aa0d-4091-9027-591d30cbf377-result.json
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\96fb1dac-4c3f-47ab-84cf-bb6acb564980-attachment.txt
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\9f18fa42-e82f-4a0c-9f1b-bd811d56b28e-result.json
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\b1c30f5f-48bb-4177-98ca-fdaf115a8ee8-container.json
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\ce56bbdf-8647-492d-a45d-5b99a2a1e2be-attachment.txt
+[INFO] - [2025-06-28 22:25:01] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\cf4c8c1a-0553-4eaa-be50-988a215d07f5-container.json
+[INFO] - [2025-06-28 22:25:01] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\ahmed\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+[WARN] - [2025-06-28 22:25:03] [main] [org.testng.internal.Utils] - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[INFO] - [2025-06-28 22:25:03] [main] [com.swaglabs.Listeners.TestNGListeners] - Test Execution Finished .......

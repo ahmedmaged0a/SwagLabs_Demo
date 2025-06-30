@@ -1,0 +1,198 @@
+[DEBUG] - [2025-06-22 00:00:56] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\ahmed\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.Listeners.TestNGListeners] - Test Execution Started .......
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\1d0522b1-bb70-4dd6-87a8-72c56214e23e-attachment.txt
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\2202a94d-9561-4386-98ef-14cd9234d94c-result.json
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\232da140-e202-443f-a629-36c5c730eeb9-attachment.txt
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\308a3a66-ad3d-40b8-a6de-c0bc1949c518-result.json
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\46faa323-1f1a-4504-b2e0-feb9f6ba7d35-container.json
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\5301ab00-8a0e-441a-99a7-8e6b3b841983-attachment.txt
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\5e9c7710-74ab-48de-a014-64be46cd7787-attachment
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\5efc8e0f-116f-49fe-a92d-3f9a6ceac920-container.json
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\5f919e3e-fd5e-4477-aad1-3fdd93504ba4-attachment
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\83686c29-0dbf-4175-9f92-dc283de4e6bd-attachment
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\91ba6245-1ba7-4ddf-b440-eddbc011a375-attachment.txt
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\929b1cdc-2f54-4048-a517-24772e0b03bf-attachment.txt
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\92a565e4-f206-44d2-9237-42bf421e7780-attachment.txt
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\98567a04-7f50-4554-9d77-3cbbda4ce395-attachment
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\9a71eb36-4bd2-444e-86f1-e3258c7275e2-attachment
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\9cca95d6-785a-42ff-a827-89ac6e123fdb-attachment
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\b30c30e5-4256-4790-860b-e723298ffc86-result.json
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\b599c750-632d-457a-b320-6855969fb618-container.json
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\be5a28fd-6834-4d13-a830-c29e3bff696c-attachment.txt
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\d1addb00-a71c-4af5-9477-4c827d4acf76-result.json
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\db11b8d6-1719-4e6f-9da6-9f002fec1a12-attachment.txt
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\e1cc4d59-7f00-41c1-8bb1-c4839c0daa40-result.json
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\e28c5377-cb8e-47ec-882e-9689eb288afc-attachment.txt
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\ecf1170f-5402-40ee-926f-442f45f9d336-attachment
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\ee7dcf04-3f28-454a-a961-df6aa18c8a52-attachment.txt
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\efcbc10f-c307-4544-9cc7-d4beb17e1c4a-attachment
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\f26d46cd-22e0-4eb8-a078-e287697ea2ca-attachment
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\allure-results\fa5b7602-fbfa-4e20-b68c-4ac191b7a490-attachment
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\screenshots\Passed-Login with Empty credentials.png
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\screenshots\Passed-Login with invalid credentials.png
+[INFO] - [2025-06-22 00:00:57] [main] [com.swaglabs.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\screenshots\Passed-Login with valid credentials.png
+[INFO] - [2025-06-22 00:00:57] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\ahmed\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-1] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-2] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-4] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-3] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-1] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-4] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-2] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-3] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-1] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-4] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-2] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-3] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-4] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-1] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-2] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-3] [com.swaglabs.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-4] [com.swaglabs.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-1] [com.swaglabs.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-2] [com.swaglabs.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-22 00:01:00] [TestNG-PoolService-3] [com.swaglabs.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-22 00:01:06] [TestNG-PoolService-2] [com.swaglabs.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-22 00:01:06] [TestNG-PoolService-4] [com.swaglabs.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-22 00:01:06] [TestNG-PoolService-3] [com.swaglabs.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-22 00:01:06] [TestNG-PoolService-1] [com.swaglabs.drivers.DriverManager] - Edge created
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-1] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-4] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-4] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-1] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-1] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-4] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-3] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-3] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:08] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:09] [TestNG-PoolService-3] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:09] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:09] [TestNG-PoolService-2] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:09] [TestNG-PoolService-2] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:09] [TestNG-PoolService-2] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:09] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:09] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:09] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:09] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:09] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:09] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Sending data to element: By.cssSelector: #user-name with data: standard_user
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-1] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-1] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-1] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #user-name
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Sending data to element: By.cssSelector: #user-name with data: WrongUser
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-4] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-4] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Sending data to element: By.cssSelector: #user-name with data: 
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-3] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-3] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-4] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Sending data to element: By.cssSelector: #user-name with data: WrongUser
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-2] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-2] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-3] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-2] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:10] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Sending data to element: By.cssSelector: #password with data: WrongPass
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.Waits] - Waiting for element to be clickable: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Sending data to element: By.cssSelector: #password with data: 
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-4] [com.swaglabs.utils.Waits] - Waiting for element to be clickable: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-4] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-4] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #password
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-4] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Sending data to element: By.cssSelector: #password with data: WrongPass
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-3] [com.swaglabs.utils.Waits] - Waiting for element to be clickable: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-3] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-3] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Sending data to element: By.cssSelector: #password with data: secret_sauce
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-2] [com.swaglabs.utils.Waits] - Waiting for element to be clickable: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-2] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-2] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-3] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-2] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: #login-button
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Getting text from element: By.cssSelector: h3[data-test='error']  with data: Epic sadface: Username and password do not match any user in this service
+[INFO] - [2025-06-22 00:01:11] [TestNG-PoolService-1] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-1] [com.swaglabs.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\logs\log_2025-06-22_00-00-56.log
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-4] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-4] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-3] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-3] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-4] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-3] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-2] [com.swaglabs.utils.Waits] - Waiting for element to be visible: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-2] [com.swaglabs.utils.Waits] - Waiting for element to be present: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-2] [com.swaglabs.utils.Scrolling] - Scrolling to By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Getting text from element: By.cssSelector: h3[data-test='error']  with data: Epic sadface: Password is required
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Getting text from element: By.cssSelector: h3[data-test='error']  with data: Epic sadface: Username is required
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-4] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-3] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-1] [com.swaglabs.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-Login with invalid credentials.png
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-3] [com.swaglabs.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\logs\log_2025-06-22_00-00-56.log
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-4] [com.swaglabs.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\logs\log_2025-06-22_00-00-56.log
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-1] [stepDefinitions.Hooks] - Test case Login with invalid credentials passed successfully.
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-1] [com.swaglabs.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Getting text from element: By.cssSelector: h3[data-test='error']  with data: Epic sadface: Username and password do not match any user in this service
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-2] [com.swaglabs.utils.ElementActions] - Finding element: By.cssSelector: h3[data-test='error']
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-2] [com.swaglabs.utils.FilesUtils] - Latest file found: D:\Intiliji WorkSpace\Selenium\Swaglabs_Automation\test-outputs\logs\log_2025-06-22_00-00-56.log
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-4] [com.swaglabs.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-Login with Empty credentials.png
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-4] [stepDefinitions.Hooks] - Test case Login with Empty credentials passed successfully.
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-3] [com.swaglabs.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-Login with Empty credentials.png
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-4] [com.swaglabs.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-3] [stepDefinitions.Hooks] - Test case Login with Empty credentials passed successfully.
+[INFO] - [2025-06-22 00:01:12] [TestNG-PoolService-3] [com.swaglabs.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-22 00:01:13] [TestNG-PoolService-2] [com.swaglabs.utils.ScreenShotUtils] - Screenshot taken: test-outputs/screenshots/Passed-Login with invalid credentials.png
+[INFO] - [2025-06-22 00:01:13] [TestNG-PoolService-2] [stepDefinitions.Hooks] - Test case Login with invalid credentials passed successfully.
+[INFO] - [2025-06-22 00:01:13] [TestNG-PoolService-2] [com.swaglabs.utils.BrowserActions] - Closing the browser.
+[INFO] - [2025-06-22 00:01:16] [main] [com.swaglabs.Listeners.TestNGListeners] - Test Execution Finished .......
